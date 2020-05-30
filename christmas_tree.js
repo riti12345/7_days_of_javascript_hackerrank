@@ -1,0 +1,1 @@
+console.log(" *"); var c = 1; for (i = 1; i <= 9; i++) { var str = ""; for (j = i; j < 9; j++) { str = str.concat(" "); } for (k = 1; k <= c; k++) { str = str.concat("0"); } console.log(str); c += 2; }

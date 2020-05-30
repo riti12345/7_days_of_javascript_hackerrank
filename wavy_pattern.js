@@ -1,0 +1,1 @@
+console.log(('\u2571\u2572'.repeat(7) + '\n').repeat(14));
